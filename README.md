@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mo-heatt
+- 👋 Hi, I’m Mohit
 - 👀 Always ready to learn and explore!
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on start-ups
